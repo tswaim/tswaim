@@ -15,13 +15,6 @@ building trading tools for polymarket, perps trading
 
 If you've built something similar, or you trade on these platforms and see obvious gaps in how I'm handling fees / leg risk / market matching - open an issue or just message me.
 Looking for the person who's going to tell me the thing I haven't thought of yet.
-
----
-
-**Stack**
-
-TypeScript · Node.js · Polygon · Polymarket CLOB API · Kalshi API
-
 ---
 
 *If you found a bug, that's more valuable to me than a follow.*
