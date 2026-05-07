@@ -10,8 +10,7 @@ I put my projects here because I want people who actually understand this space 
 
 **What I'm working on**
 
-[polymarket-kalshi-arbitrage-bot](https://github.com/tswaim/polymarket-kalshi-arbitrage-bot) - detects price gaps between Polymarket and Kalshi on the same events and executes both legs automatically. TypeScript, Node.js. Works. But I'm sure there are things I'm missing.
-
+building trading tools for polymarket, perps trading
 ---
 
 **What I actually want**
