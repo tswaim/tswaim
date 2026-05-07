@@ -1,8 +1,8 @@
 # tswaim
 
-I build trading tools for prediction markets.
+I build trading tools for prediction markets and perps trading
 
-Not here to sell anything. Most devs on GitHub are pitching — better README, more stars, more users. I get it, but that's not what this is.
+Most devs on GitHub are pitching - better README, more stars, more users. I get it, but that's not what this is.
 
 I put my projects here because I want people who actually understand this space to tell me what I'm doing wrong.
 
@@ -10,13 +10,13 @@ I put my projects here because I want people who actually understand this space 
 
 **What I'm working on**
 
-[polymarket-kalshi-arbitrage-bot](https://github.com/tswaim/polymarket-kalshi-arbitrage-bot) — detects price gaps between Polymarket and Kalshi on the same events and executes both legs automatically. TypeScript, Node.js. Works. But I'm sure there are things I'm missing.
+[polymarket-kalshi-arbitrage-bot](https://github.com/tswaim/polymarket-kalshi-arbitrage-bot) - detects price gaps between Polymarket and Kalshi on the same events and executes both legs automatically. TypeScript, Node.js. Works. But I'm sure there are things I'm missing.
 
 ---
 
 **What I actually want**
 
-If you've built something similar, or you trade on these platforms and see obvious gaps in how I'm handling fees / leg risk / market matching — open an issue or just message me.
+If you've built something similar, or you trade on these platforms and see obvious gaps in how I'm handling fees / leg risk / market matching - open an issue or just message me.
 
 Not looking for stars. Looking for the person who's going to tell me the thing I haven't thought of yet.
 
