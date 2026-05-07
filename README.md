@@ -1,16 +1,31 @@
-## Hi there 👋
+# tswaim
 
-<!--
-**tswaim/tswaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build trading tools for prediction markets.
 
-Here are some ideas to get you started:
+Not here to sell anything. Most devs on GitHub are pitching — better README, more stars, more users. I get it, but that's not what this is.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I put my projects here because I want people who actually understand this space to tell me what I'm doing wrong.
+
+---
+
+**What I'm working on**
+
+[polymarket-kalshi-arbitrage-bot](https://github.com/tswaim/polymarket-kalshi-arbitrage-bot) — detects price gaps between Polymarket and Kalshi on the same events and executes both legs automatically. TypeScript, Node.js. Works. But I'm sure there are things I'm missing.
+
+---
+
+**What I actually want**
+
+If you've built something similar, or you trade on these platforms and see obvious gaps in how I'm handling fees / leg risk / market matching — open an issue or just message me.
+
+Not looking for stars. Looking for the person who's going to tell me the thing I haven't thought of yet.
+
+---
+
+**Stack**
+
+TypeScript · Node.js · Polygon · Polymarket CLOB API · Kalshi API
+
+---
+
+*If you found a bug, that's more valuable to me than a follow.*
